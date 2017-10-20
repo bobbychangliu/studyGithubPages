@@ -1,0 +1,241 @@
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://bobbychangliu.github.io/studyGithubPages" resolutions="1x,2x" timestamp="1508460367620">
+  <folder name="css">
+    <file name="site_global.css" crc="96405152"/>
+    <file name="master_a-master.css" crc="4264882394" ref="donation:contact:portfolio:index:log"/>
+    <file name="nomq_preview_master_a-master.css" crc="411034822" ref="donation:contact:portfolio:index:log"/>
+    <file name="donation.css" crc="4004568114" ref="donation"/>
+    <file name="nomq_donation.css" crc="3925788297" ref="donation"/>
+    <file name="contact.css" crc="4007152011" ref="contact"/>
+    <file name="nomq_contact.css" crc="3885144333" ref="contact"/>
+    <file name="portfolio.css" crc="293068583" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="293277200" ref="portfolio"/>
+    <file name="index.css" crc="35103612" ref="index"/>
+    <file name="nomq_index.css" crc="3805943977" ref="index"/>
+    <file name="log.css" crc="4230833722" ref="log"/>
+    <file name="nomq_log.css" crc="210637203" ref="log"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portfolio:log:donation:contact"/>
+    <file name="museutils.js" crc="17924269" ref="index:portfolio:log:donation:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:portfolio:log:donation:contact"/>
+    <file name="museconfig.js" crc="278381782" ref="index:portfolio:log:donation:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index:portfolio:log:donation:contact"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:portfolio:log:donation:contact"/>
+    <file name="webpro.js" crc="416662029" ref="index:portfolio:log:donation:contact"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="index:portfolio"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="index:portfolio"/>
+    <file name="touchswipe.js" crc="432264157" ref="index:portfolio"/>
+    <file name="jquery.musemenu.js" crc="4286030528" ref="index:portfolio:log:donation:contact"/>
+    <file name="musewpdisclosure.js" crc="3809204180" ref="index:portfolio:log:donation:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:portfolio:log:donation:contact"/>
+    <file name="jquery.museresponsive.js" crc="4267800278" ref="index:portfolio:log:donation:contact"/>
+    <file name="require.js" crc="3861931657" ref="index:portfolio:log:donation:contact"/>
+    <file name="form_check.php" crc="4110044762" ref="contact"/>
+    <file name="form_throttle.php" crc="22190333" ref="contact"/>
+    <file name="form_process.php" crc="257545537" ref="contact"/>
+    <file name="form-u1568.php" crc="154450285" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="coffee-keyboard-u541-fr.jpg" crc="3880212474" ref="index"/>
+    <file name="coffee-keyboard-u541-fr_2x.jpg" crc="4196907638" ref="index"/>
+    <file name="c-logo-u609-fr.png" crc="4157089215" ref="index"/>
+    <file name="trellologo-u620-fr.png" crc="357910736" ref="index"/>
+    <file name="nodejs_logo-u623-fr.png" crc="510393876" ref="index"/>
+    <file name="swiftlogo-u654-fr.png" crc="4274876913" ref="index"/>
+    <file name="swiftlogo-u654-fr_2x.png" crc="3759393992" ref="index"/>
+    <file name="msnetlogo-u657-fr.png" crc="64806968" ref="index"/>
+    <file name="msnetlogo-u657-fr_2x.png" crc="3985902904" ref="index"/>
+    <file name="cassandra-u660-fr.png" crc="3997341642" ref="index"/>
+    <file name="sun-ball-tennis-court-u2859-fr.jpg" crc="3828149895" ref="index"/>
+    <file name="sun-ball-tennis-court-u2859-fr_2x.jpg" crc="4199100172" ref="index"/>
+    <file name="basketball-u2865-fr.jpg" crc="266208955" ref="index"/>
+    <file name="basketball-u2865-fr_2x.jpg" crc="4025848022" ref="index"/>
+    <file name="swim-u2868-fr.jpg" crc="130969532" ref="index"/>
+    <file name="swim-u2868-fr_2x.jpg" crc="4162627009" ref="index"/>
+    <file name="golf-u2871-fr.jpg" crc="4191469148" ref="index"/>
+    <file name="golf-u2871-fr_2x.jpg" crc="3894302036" ref="index"/>
+    <file name="orlandocoderlogowhite01.png" crc="276369030" seo="true" ref="index:portfolio:log:donation:contact">
+      <caption webpage="index" alt="Bobby Chang Liu"/>
+      <caption webpage="index" alt="Bobby Chang Liu"/>
+      <caption webpage="index" alt="Bobby Chang Liu"/>
+      <caption webpage="index" alt="Bobby Chang Liu"/>
+      <caption webpage="index" alt="Bobby Chang Liu"/>
+      <caption webpage="portfolio" alt="Bobby Chang Liu"/>
+      <caption webpage="portfolio" alt="Bobby Chang Liu"/>
+      <caption webpage="portfolio" alt="Bobby Chang Liu"/>
+      <caption webpage="portfolio" alt="Bobby Chang Liu"/>
+      <caption webpage="portfolio" alt="Bobby Chang Liu"/>
+      <caption webpage="contact" alt="Bobby Chang Liu"/>
+      <caption webpage="contact" alt="Bobby Chang Liu"/>
+      <caption webpage="contact" alt="Bobby Chang Liu"/>
+      <caption webpage="contact" alt="Bobby Chang Liu"/>
+      <caption webpage="donation" alt="Bobby Chang Liu"/>
+      <caption webpage="donation" alt="Bobby Chang Liu"/>
+      <caption webpage="donation" alt="Bobby Chang Liu"/>
+      <caption webpage="donation" alt="Bobby Chang Liu"/>
+      <caption webpage="log" alt="Bobby Chang Liu"/>
+      <caption webpage="log" alt="Bobby Chang Liu"/>
+      <caption webpage="log" alt="Bobby Chang Liu"/>
+      <caption webpage="log" alt="Bobby Chang Liu"/>
+    </file>
+    <file name="orlandocoderlogowhite01_2x.png" crc="16420656" seo="true" ref="index:portfolio:log:donation:contact">
+      <caption webpage="index" alt="Bobby Chang Liu"/>
+      <caption webpage="index" alt="Bobby Chang Liu"/>
+      <caption webpage="index" alt="Bobby Chang Liu"/>
+      <caption webpage="index" alt="Bobby Chang Liu"/>
+      <caption webpage="index" alt="Bobby Chang Liu"/>
+      <caption webpage="portfolio" alt="Bobby Chang Liu"/>
+      <caption webpage="portfolio" alt="Bobby Chang Liu"/>
+      <caption webpage="portfolio" alt="Bobby Chang Liu"/>
+      <caption webpage="portfolio" alt="Bobby Chang Liu"/>
+      <caption webpage="portfolio" alt="Bobby Chang Liu"/>
+      <caption webpage="contact" alt="Bobby Chang Liu"/>
+      <caption webpage="contact" alt="Bobby Chang Liu"/>
+      <caption webpage="contact" alt="Bobby Chang Liu"/>
+      <caption webpage="contact" alt="Bobby Chang Liu"/>
+      <caption webpage="donation" alt="Bobby Chang Liu"/>
+      <caption webpage="donation" alt="Bobby Chang Liu"/>
+      <caption webpage="donation" alt="Bobby Chang Liu"/>
+      <caption webpage="donation" alt="Bobby Chang Liu"/>
+      <caption webpage="log" alt="Bobby Chang Liu"/>
+      <caption webpage="log" alt="Bobby Chang Liu"/>
+      <caption webpage="log" alt="Bobby Chang Liu"/>
+      <caption webpage="log" alt="Bobby Chang Liu"/>
+    </file>
+    <file name="hatshop-u552-fr.jpg" crc="430784638" ref="index"/>
+    <file name="coffee-keyboard-u541-fr2.jpg" crc="322859016" ref="index"/>
+    <file name="coffee-keyboard-u541-fr_2x2.jpg" crc="362469624" ref="index"/>
+    <file name="c-logo-u609-fr2.png" crc="3783519157" ref="index"/>
+    <file name="trellologo-u620-fr2.png" crc="3930239064" ref="index"/>
+    <file name="nodejs_logo-u623-fr2.png" crc="296822373" ref="index"/>
+    <file name="swiftlogo-u654-fr2.png" crc="352139625" ref="index"/>
+    <file name="swiftlogo-u654-fr_2x2.png" crc="4155390096" ref="index"/>
+    <file name="msnetlogo-u657-fr2.png" crc="4146813263" ref="index"/>
+    <file name="msnetlogo-u657-fr_2x2.png" crc="3939744224" ref="index"/>
+    <file name="cassandra-u660-fr2.png" crc="391590969" ref="index"/>
+    <file name="sun-ball-tennis-court-u2859-fr2.jpg" crc="239907544" ref="index"/>
+    <file name="sun-ball-tennis-court-u2859-fr_2x2.jpg" crc="3917349568" ref="index"/>
+    <file name="basketball-u2865-fr2.jpg" crc="4180680770" ref="index"/>
+    <file name="basketball-u2865-fr_2x2.jpg" crc="69780513" ref="index"/>
+    <file name="swim-u2868-fr2.jpg" crc="3888668345" ref="index"/>
+    <file name="swim-u2868-fr_2x2.jpg" crc="513847194" ref="index"/>
+    <file name="golf-u2871-fr2.jpg" crc="469108148" ref="index"/>
+    <file name="golf-u2871-fr_2x2.jpg" crc="4024249643" ref="index"/>
+    <file name="coffee-keyboard-u541-fr3.jpg" crc="4075663602" ref="index"/>
+    <file name="coffee-keyboard-u541-fr_2x3.jpg" crc="22489955" ref="index"/>
+    <file name="c-logo-u609-fr3.png" crc="3903457079" ref="index"/>
+    <file name="trellologo-u620-fr3.png" crc="109242686" ref="index"/>
+    <file name="nodejs_logo-u623-fr3.png" crc="4212855073" ref="index"/>
+    <file name="swiftlogo-u654-fr3.png" crc="330089454" ref="index"/>
+    <file name="swiftlogo-u654-fr_2x3.png" crc="3821603958" ref="index"/>
+    <file name="msnetlogo-u657-fr3.png" crc="4004467639" ref="index"/>
+    <file name="msnetlogo-u657-fr_2x3.png" crc="4093630171" ref="index"/>
+    <file name="cassandra-u660-fr3.png" crc="289038006" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:portfolio:log:donation:contact"/>
+    <file name="menu,_web_fundamentals_(white)svg41x30.png" crc="28074409" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu,_web_fundamentals_(white)svg_2x.png" crc="28074409" seo="true" ref="index:portfolio:log:donation:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="donation" alt=""/>
+      <caption webpage="donation" alt=""/>
+      <caption webpage="log" alt=""/>
+      <caption webpage="log" alt=""/>
+      <caption webpage="log" alt=""/>
+    </file>
+    <file name="coffee-keyboard-u541-fr4.jpg" crc="3962626831" ref="index"/>
+    <file name="coffee-keyboard-u541-fr_2x4.jpg" crc="328343094" ref="index"/>
+    <file name="c-logo-u609-fr4.png" crc="286883839" ref="index"/>
+    <file name="swiftlogo-u654-fr4.png" crc="378657586" ref="index"/>
+    <file name="swiftlogo-u654-fr_2x4.png" crc="110189995" ref="index"/>
+    <file name="trellologo-u620-fr4.png" crc="249203357" ref="index"/>
+    <file name="msnetlogo-u657-fr4.png" crc="179050321" ref="index"/>
+    <file name="msnetlogo-u657-fr_2x4.png" crc="3776001238" ref="index"/>
+    <file name="coffee-keyboard-u541-fr5.jpg" crc="3926934706" ref="index"/>
+    <file name="coffee-keyboard-u541-fr_2x5.jpg" crc="4120934516" ref="index"/>
+    <file name="c-logo-u609-fr5.png" crc="403851729" ref="index"/>
+    <file name="swiftlogo-u654-fr5.png" crc="508378313" ref="index"/>
+    <file name="swiftlogo-u654-fr_2x5.png" crc="216687788" ref="index"/>
+    <file name="trellologo-u620-fr5.png" crc="4039538201" ref="index"/>
+    <file name="msnetlogo-u657-fr_2x5.png" crc="3992182671" ref="index"/>
+    <file name="code01.jpg" crc="3958913851" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_4646.jpg" crc="1887667" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_4647.png" crc="28269015" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="futureofvr.png" crc="4132780205" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="portfolio"/>
+    <file name="bitbucketbutton-u1269-fr.png" crc="4102099287" ref="portfolio"/>
+    <file name="bitbucketbutton-u1269-r-fr.png" crc="49857556" ref="portfolio"/>
+    <file name="code01-u522-fr.jpg" crc="3892021874" ref="portfolio"/>
+    <file name="code01-u522-fr2.jpg" crc="292782683" ref="portfolio"/>
+    <file name="code01-u522-fr3.jpg" crc="333616357" ref="portfolio"/>
+    <file name="code01-u522-fr4.jpg" crc="237004720" ref="portfolio"/>
+    <file name="fitness01.jpg" crc="3969112080" ref="log">
+      <caption webpage="log" alt=""/>
+    </file>
+    <file name="fitness011400x933.jpg" crc="3766895986" ref="log">
+      <caption webpage="log" alt=""/>
+    </file>
+    <file name="fitness011136x757.jpg" crc="4226322617" ref="log">
+      <caption webpage="log" alt=""/>
+    </file>
+    <file name="fitness01840x560.jpg" crc="29963591" ref="log">
+      <caption webpage="log" alt=""/>
+    </file>
+    <file name="powercookie-layer 1.png" crc="395276995" ref="donation">
+      <caption webpage="donation" alt=""/>
+    </file>
+    <file name="powercookie.jpg" crc="4236219353" ref="donation">
+      <caption webpage="donation" alt=""/>
+    </file>
+    <file name="powercookie-u1683-fr.png" crc="3769530901" ref="donation"/>
+    <file name="powercookie-u1683-r-fr.jpg" crc="3853084607" ref="donation"/>
+    <file name="powercookie-u1683-fr2.png" crc="4140349960" ref="donation"/>
+    <file name="powercookie-u1683-r-fr2.jpg" crc="3893051656" ref="donation"/>
+    <file name="space background p1 4.jpg" crc="4102869677" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="space background p1 41404x878.jpg" crc="324075974" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="space background p1 41400x875.jpg" crc="241269741" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="space background p1 4840x525.jpg" crc="58446670" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="310350862" seo="true" mt="1489110937861" redirect="true"/>
+  <file name="portfolio.html" crc="301615209" seo="true" mt="1489116127365" redirect="true"/>
+  <file name="log.html" crc="4044954274" seo="true" mt="1489625905998" redirect="true"/>
+  <file name="donation.html" crc="24896064" seo="true" mt="1489109848509" redirect="true"/>
+  <file name="contact.html" crc="506153682" seo="true" mt="1489109848509" redirect="true"/>
+</manifest>
